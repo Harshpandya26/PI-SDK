@@ -1,2 +1,2 @@
 # PI-SDK
-PI Tool for transfer data from PI to GBQ
+PI Tool for History Recovery by using Excel file 
